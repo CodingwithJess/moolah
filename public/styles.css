@@ -3,6 +3,7 @@ body {
   font-family: Arial;
   background-image: url(./icons/positive.png);
   background-repeat: repeat;
+  background-attachment: fixed;
 }
 
 button, input {
