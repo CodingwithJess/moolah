@@ -30,8 +30,8 @@ This app will allow users to keep track of a simple budget while offline as a pr
   Please contact me on GitHub to contribute.
 
   ## Images of deployed site
-![Moolah](public/img/?raw=true "Moolah")
+![Moolah](public/icons/MoolahPreview.png?raw=true "Moolah")
   
   ## Questions?
-  https://github.com/CodingwithJess
-  Email me here: jess@codingwithjess.com
+  * https://github.com/CodingwithJess
+  * Email me here: jess@codingwithjess.com
