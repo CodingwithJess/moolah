@@ -6,7 +6,7 @@
 This app will allow users to keep track of a simple budget while offline as a progressive web app. The data will be stored until the user is back online where the data will be added from LocalDB into MongoDB storage. 
   
   ## Deployed Link
-  https://ancient-gorge-35047.herokuapp.com
+ https://moolah-tracker.herokuapp.com
  
 
   ## Table of Contents
